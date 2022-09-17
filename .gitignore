@@ -1,0 +1,15 @@
+*.js
+*.d.ts
+node_modules
+
+# ide
+.idea/
+.vscode/
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+cdk.context.json
+template.yml
+.env
+.aws-sam
